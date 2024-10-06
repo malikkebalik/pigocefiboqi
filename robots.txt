@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://pigocefiboqi.pages.dev/sitemap.xml
